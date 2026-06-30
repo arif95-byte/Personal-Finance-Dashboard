@@ -9,6 +9,11 @@ The dashboard provides an executive-level view of key financial metrics, includi
 - Where are the risks and opportunities? (Loan tupe prevalence, regional trends, and credit score distribution)
 - Are there significant outliers? (Top earners, high debt burdens, and savings extremes)
 
+<img width="1842" height="780" alt="image" src="https://github.com/user-attachments/assets/893e0ab7-d34c-49be-af95-9d5339615a36" />
+<img width="1778" height="760" alt="image" src="https://github.com/user-attachments/assets/100eadea-3928-46be-b077-33f0858cda8c" />
+
+
+
 # Features & Visualizations
 - 📈 Income Distribution: A histogram showcasing the density of monthly incomes, highlighting the majority earning between $4,000 - $6,000.
 - 🌍 Regional Breakdown: A comparative bar chart displaying average income and expenses across five global regions (Africa, North America, Europe, Asia, and Other).
